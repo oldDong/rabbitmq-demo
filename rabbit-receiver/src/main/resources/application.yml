@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: rabbit-receiver
+  rabbitmq:
+      host: **.**.**.**
+      port: 5672
+      username: *****
+      password: *****
+server:
+  port: 9999

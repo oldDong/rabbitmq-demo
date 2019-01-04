@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: rabbit-sender
+  rabbitmq:
+    host: 47.99.104.104
+    port: 5672
+    username: admin
+    password: admin
+server:
+  port: 8888
